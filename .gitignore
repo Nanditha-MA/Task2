@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Uploads folder
+uploads/
+
+# Migrations (if using alembic)
+alembic/versions/
+
+# OS files
+.DS_Store
+Thumbs.db
